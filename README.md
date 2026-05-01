@@ -1,8 +1,6 @@
-# Tebex Calculateur 
+# 🧮 TEBEX CALCULATEUR 🧮
 
 Calculateur de frais Tebex FiveM
-
->🧮 TEBEX CALCULATEUR 🧮
 ------------------------
 
 📦 **PRÉSENTATION** 📦
